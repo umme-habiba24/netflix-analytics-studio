@@ -1,0 +1,47 @@
+# Netflix Analytics Studio
+
+A completed interactive analytics project developed by
+**Ummi Habiba** using Python, pandas, Plotly, and Streamlit.
+
+## Project Features
+
+- Automatic dataset loading
+- Title and catalog filters
+- Movie and TV-show comparison
+- Release-year timeline
+- Genre treemap
+- Country analysis
+- Data-quality reporting
+- Rule-based recommendations
+- Random title discovery
+- Downloadable filtered results
+
+## Dataset
+
+Netflix Movies and TV Shows dataset by Shivam Bansal.
+
+Source:
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+License: CC0 — Public Domain.
+
+## Important Note
+
+This project analyzes a static catalog dataset. It does not
+represent Netflix viewers, streams, popularity, revenue, or
+Netflix's internal recommendation technology.
+
+## Technologies
+
+- Python
+- pandas
+- Plotly
+- Streamlit
+
+## Author
+
+Ummi Habiba
+
+- GitHub: https://github.com/umme-habiba24
+- LinkedIn: https://www.linkedin.com/in/ummi-habiba-7076893b1/
+- Email: ummehabeeba867@gmail.com
